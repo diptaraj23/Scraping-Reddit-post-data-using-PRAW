@@ -1,0 +1,1034 @@
+title,subreddit,score,id,url,comms_num,created,body,upvote_ratio
+Sunday Daily Thread: What's everyone working on this week?,Python,3,swnk7c,https://www.reddit.com/r/Python/comments/swnk7c/sunday_daily_thread_whats_everyone_working_on/,17,1645315212.0,"Tell /r/python what you're working on this week! You can be bragging, grousing, sharing your passion, or explaining your pain. Talk about your current project or your pet project; whatever you want to share.",1.0
+Tuesday Daily Thread: Advanced questions,Python,1,sy8nnd,https://www.reddit.com/r/Python/comments/sy8nnd/tuesday_daily_thread_advanced_questions/,2,1645488017.0,"Have some burning questions on advanced Python topics? Use this thread to ask more advanced questions related to Python.
+
+**If your question is a beginner question we hold a beginner Daily Thread tomorrow (Wednesday) where you can ask any question! We may remove questions here and ask you to resubmit tomorrow.**
+
+This thread may be fairly low volume in replies, if you don't receive a response we recommend looking at r/LearnPython or joining the Python Discord server at [https://discord.gg/python](https://discord.gg/python) where you stand a better chance of receiving a response.",0.67
+Your python 4 dream list.,Python,153,sy369l,https://www.reddit.com/r/Python/comments/sy369l/your_python_4_dream_list/,182,1645474454.0,"So.... If there was to ever be python 4 (not a minor version increment, but full fledged new python), what would you like to see in it?   
+
+
+My dream list of features are:
+
+1. Both interpretable and compilable.
+2. A very easy app distribution system (like generating me a file that I can bring to any major system - Windows, Mac, Linux, Android etc. and it will install/run automatically as long as I do not use system specific features).
+3. Fully compatible with mobile (if needed, compilable for JVM).",0.82
+New Sphinx theme,Python,192,sxtp7h,https://www.reddit.com/r/Python/comments/sxtp7h/new_sphinx_theme/,23,1645450636.0,"I just released a new Sphinx theme. It was designed to be clean and modern.
+
+Here's a screenshot:
+
+[The new theme](https://preview.redd.it/tpejd26xq6j81.png?width=2648&format=png&auto=webp&s=a858e2eacac05a45f28d49c26e659c13222fe6ee)
+
+You can check it out here:
+
+[https://github.com/piccolo-orm/piccolo\_theme](https://github.com/piccolo-orm/piccolo_theme)
+
+I wrote a blog post about the thought process behind it:
+
+[https://piccolo-orm.com/blog/creating-a-new-sphinx-theme-for-our-docs/](https://piccolo-orm.com/blog/creating-a-new-sphinx-theme-for-our-docs/)
+
+It was designed for the Piccolo ORM project, but can be used by anyone. Sphinx is a great way of writing docs for Python projects.
+
+Thanks!",0.94
+5% of the 420 python codebases we checked had silently skipped tests - including big projects with over 50k stars and 20k forks,Python,18,sy915y,https://codereviewdoctor.medium.com/5-of-the-420-python-codebases-we-checked-silently-skipped-tests-so-we-fixed-them-1716bb8fcee7,5,1645489022.0,,0.68
+Writing Python module in Rust (interface directly with NumPy),Python,5,syfhvt,https://www.reddit.com/r/Python/comments/syfhvt/writing_python_module_in_rust_interface_directly/,0,1645507796.0,"Hello everyone!  
+
+
+[Wrote an article on how to write Python modules with Rust.](https://itnext.io/how-to-bind-python-numpy-with-rust-ndarray-2efa5717ed21) This article goes through how you can integrate Rust directly with NumPy and get good speed. I find it incredibly liberating being able to iterate over a NumPy array without getting the speed penalty from Python. Hope it can help anyone!  
+
+
+Cheers! :))  
+
+
+And let me know if you find anything confusing or difficult and I'll try my best to help out!",1.0
+"When you are done with a virtual environment, can you just delete it?",Python,118,sxpl71,https://www.reddit.com/r/Python/comments/sxpl71/when_you_are_done_with_a_virtual_environment_can/,34,1645436147.0,"Hi
+
+I've just started using venv to create virtual environments for projects and it seems that after deactivating a project, you can just delete content in the venv folder if you want to get rid of it. Is this approach OK?",0.93
+"I’m a chess player, not a coder! But Python was easy enough to learn for this project I that had in mind! It takes a chess position and outputs an audio file of my own voice reading out all the pieces on the board! Check it out!",Python,18,sxyx8d,https://youtu.be/GUuK_67YvIM,5,1645464036.0,,0.77
+"This is my first Python Project. I am looking for feedback on improvement. Perhaps things done well, but more what things I can look towards improving. I present, my first Genetic Algorithm. I started python 2 months ago.",Python,2,syeyyq,https://www.reddit.com/r/Python/comments/syeyyq/this_is_my_first_python_project_i_am_looking_for/,7,1645506110.0,"[First Genetic Algorithm Code](https://github.com/Gershwinfire/First_Genetic_Algorithm)
+
+Click above and Comment your feedback below please.
+
+Have a great day!
+
+Also F**k War.
+
+Thanks!",0.75
+My First Python Code - Any Suggestions for Improvement?,Python,9,sy51dw,https://www.reddit.com/r/Python/comments/sy51dw/my_first_python_code_any_suggestions_for/,20,1645478997.0,"I'm a total beginner. I'm in my 30s and I am just beginning my journey into the world of CS. I'm trying to teach myself different coding languages so that I can change careers. 
+
+I found the challenge on a list of beginner challenges - Write a code that converts radians to degrees. 
+
+I wanted to write the code so that it returns a sentence rather than just the answer.
+
+How could I have done better? Is there a way to do this with f strings? I would love to know how. I tried a bit. 
+
+https://preview.redd.it/judcageb89j81.png?width=1746&format=png&auto=webp&s=09fd0e9c609f40d84941de9857311d7bbc057721
+
+Thanks!",0.67
+I made a Pokemon team calculator on Python!,Python,30,sxt7ev,https://www.reddit.com/r/Python/comments/sxt7ev/i_made_a_pokemon_team_calculator_on_python/,9,1645449102.0,"I've been getting into competitive Pokemon recently and I was trying to figure out what team composition would be good so that the team would not be excessively weak to a certain type of move, which gave me the idea to make a team calculator.
+
+How it works:
+
+-Enter the names of the pokemon in the team
+
+-Enter the types of each pokemon
+
+-Enter the ability (in case it has abilities that nullify certain types)
+
+-Calculate total resistance/weakness of the entire team to each type and present it in an Excel sheet.
+
+
+[Code can be found here on my Github](https://github.com/izlemontee/pokemoncalculator/blob/main/calculatorcode)
+
+Open to feedback on how to improve or make my code more elegant. Have fun!",0.83
+Python Tutorial - Automating Job Applications on LinkedIn,Python,8,sy2jsu,https://www.reddit.com/r/Python/comments/sy2jsu/python_tutorial_automating_job_applications_on/,1,1645472936.0,"Created an Automating Job Application Bot that'll automatically apply for Jobs on LinkedIn.  
+Tutorial Video - [https://www.youtube.com/watch?v=Bkfa6qYbHoU](https://www.youtube.com/watch?v=Bkfa6qYbHoU)
+
+https://preview.redd.it/3rjjfxy9q8j81.png?width=2880&format=png&auto=webp&s=7cbe1bf3747357a03ff37ca3bc3403f8823cce48",0.75
+Let's Build a Rocket with RocketPy | Orlando Python,Python,3,sy9oi7,https://www.youtube.com/watch?v=KxIvrAhZbu8,0,1645490859.0,,0.72
+New theme for the Pelican site generator,Python,2,sychdp,https://www.reddit.com/r/Python/comments/sychdp/new_theme_for_the_pelican_site_generator/,0,1645498722.0,"For those looking for a new theme for the Pelican static site generator.
+
+[GitHub](https://github.com/aleylara/Papyrus)
+
+[Live Demo](https://aleylara.github.io/Papyrus)",1.0
+How to compress Large PDF by 20x times / RAR Compression / Python Tutorial,Python,1,sygr4l,https://youtu.be/EFdjKJ9xP0g,0,1645512051.0,,1.0
+How do you find duplicate paragraphs in a text file?,Python,0,syghq5,https://www.reddit.com/r/Python/comments/syghq5/how_do_you_find_duplicate_paragraphs_in_a_text/,2,1645511112.0,"I know how to find repeated words, repeated lines etc. How could one find repeated paragraphs.
+
+Also, I understand that one could take the approach of finding double returns or return plus sequences. Fair enough. But that is not what I am talking about. I am referring to repeated blocks of texts. Some may have returns at the end, some may not.
+
+So perhaps, how do you find repeated sequences with Python?",0.5
+"Python's Data Races, Despite the Global Interpreter Lock",Python,9,sxy6g7,https://verdagon.dev/blog/python-data-races,2,1645462268.0,,0.85
+A simple command line tool to back up your Spotify playlists.,Python,4,sy46zb,https://www.reddit.com/r/Python/comments/sy46zb/a_simple_command_line_tool_to_back_up_your/,1,1645476982.0,"I was looking for backing up my songs into a csv file so that if, in the future, I would have my own reference archive, independent of any streaming platform.
+
+There are many services on the internet that actually offer this but I found it better to write a simple script so that I could backup my playlists using a task scheduler etc. (+ I wouldn't have to authorize any 3rd party app for my account)
+
+Here is the GitHub link:
+
+[https://github.com/realsuayip/spotify-backup](https://github.com/realsuayip/spotify-backup)",0.83
+I created a two player Wordle using pygame & sockets :),Python,7,sxzhjy,https://www.reddit.com/r/Python/comments/sxzhjy/i_created_a_two_player_wordle_using_pygame_sockets/,0,1645465436.0,"I created a two player version of Wordle made only using Python. Sockets allow opponents to play across different devices.
+
+Feel free to give me any advice on my code!
+
+Here's the link to the github: [https://github.com/karkin2002/Two-Player-Wordle](https://github.com/karkin2002/Two-Player-Wordle)
+
+&#x200B;
+
+https://preview.redd.it/86f1ylkj38j81.png?width=1312&format=png&auto=webp&s=295a98e8d01119d93c373fecc1cb975d03debcfb",0.74
+How to Make Wordle with Python and PyGame in 30 mins!,Python,1,sydvup,https://youtube.com/watch?v=mJ2hPj3kURg&feature=share,0,1645502739.0,,0.6
+"one stop shop for team demos, KTs, code reviews",Python,1,syd5jt,https://document.wiki/,0,1645500597.0,,1.0
+Python Automation Project Mortgage Loan Analysis Application Part II,Python,2,sy4p1l,https://youtube.com/watch?v=mS4a_p-2jAg&feature=share,0,1645478169.0,,0.67
+Frozen Dataclasses in Python: Why and How,Python,4,sy21g6,https://www.reddit.com/r/Python/comments/sy21g6/frozen_dataclasses_in_python_why_and_how/,5,1645471685.0,"I have written another article on Python, this time on the frozen dataclasses.
+
+I have explained how to write simple frozen dataclasses, and why you need them.
+
+Please, [read here](https://timurbakibayev.medium.com/why-and-how-to-write-frozen-dataclasses-in-python-69050ad5c9d4?sk=0a39daaefb8e2f419bd359257e211a73)
+
+This is a ""friend link"" that is not behind the paywall.",0.83
+Capture The Python : A series of CTF styled challenges for Python learners,Python,27,sxn4ye,https://www.reddit.com/r/Python/comments/sxn4ye/capture_the_python_a_series_of_ctf_styled/,6,1645426658.0,"Hello everyone. I wrote this small Capture The Flag styled game for people who are learning Python and wish to test their newly found powers in a fun manner. Please give your  feedback and give suggestions as to how I can improve this project so it can be even more beneficial.
+
+GitHub link : [https://github.com/solamarpreet/CTPy](https://github.com/solamarpreet/CTPy)
+
+P.S If you enjoyed the game, please suggest some questions that I can add to the game. Ty.",0.79
+General Python Notes for Free (from variables to modules/Tkinter),Python,4,sxwv4e,https://www.reddit.com/r/Python/comments/sxwv4e/general_python_notes_for_free_from_variables_to/,0,1645459028.0,"Hi everyone! I created a Google Doc with notes about Python, with everything from variables to functions, modules, and Tkinter. These notes would be great for if you are new to coding, but also if you know some Python / another coding language.
+
+It's on a platform called [helmlearning.com](https://helmlearning.com/), or HELM Learning, which is a free online peer-to-peer learning platform that aims to offer free education to everyone. You can get access to the notes doc for free at [http://signup.helmlearning.com?python](http://signup.helmlearning.com/?python).",0.75
+Pybudget: A Solution to My Small-Brain Financial Decisions,Python,352,sx5km0,https://www.reddit.com/r/Python/comments/sx5km0/pybudget_a_solution_to_my_smallbrain_financial/,40,1645376005.0,"&#x200B;
+
+[Example Use](https://preview.redd.it/p53eckihp0j81.png?width=428&format=png&auto=webp&s=bde1713afb828cc4313b20b922e0c103a872bc6b)
+
+# Background
+
+I have a terrible history with making sound financial decisions. When I was younger, I spent my money almost as soon as I got it, leaving me continuously illiquid (even when I had the fortune of getting good income). To help me get better at this important part of an individual’s well-being, I bought a book called *Get a Financial Life* by Beth Kobliner and set out to get better. This script is just one stop on my path to financial well-being,  mostly serving as a way to quantify my gut-feeling on how much spending is appropriate given my income.
+
+# Pybudget
+
+You can find the source code here: [https://github.com/Adri6336/pybudget](https://github.com/Adri6336/pybudget)
+
+Pybudget is a command line tool for Linux (currently only tested on a Debian/Ubuntu based distro) and Windows systems. You call it and pass a numerical value as an argument (this value represents your income). Once it gets this value, it checks its configuration files (one for determining the percent you’ll save or invest, and the other for adding up expenses) and calculates a budget for you. The budget is then outputted to the terminal.
+
+I wrote it to put most of its operations into discrete functions , and tried to comment it up nicely. My hope was write it in a much less spaghetti manner, so that I could easily improve it over time and have it be easily understood by others who read it. I don’t know if I did a terribly good job at this, so if you got any notes, I’d be ecstatic to receive them!
+
+# Why is This Relevant to Python
+
+This script makes use of Python’s sys.exit, sys.argv, os.system, os.path, and decimal modules,  providing an example use case for them. In addition, it makes extensive use of Python’s try-except functionality, uses string formatting (e.g. ‘%.02f’ % float), string splitting, for-loop iteration, with-file-opening, function declaration, and tuple use.
+
+&#x200B;
+
+Edit: Updated pybudget to be compatible with Windows",0.95
+"Python Selenium Tutorial #1 - Setup, Web scraping & Testing",Python,21,sxnxzk,https://www.youtube.com/watch?v=a2ul3vEXSOI,0,1645429691.0,,0.8
+An ESP32 walks into a bar - Jokes web API MicroPython tutorial,Python,6,sxvc7q,https://www.youtube.com/watch?v=73RvDEKb_U4,0,1645455161.0,,0.8
+React BillsApp Project with Material Ui and Context Api | Module -1 | Re...,Python,3,sxzcgd,https://youtube.com/watch?v=rV1xJQN0zTI&feature=share,0,1645465081.0,,0.71
+Global Variables Access Hierarchy in Python,Python,5,sxwjq5,https://youtu.be/o3u7QqTzkYQ,2,1645458216.0,,0.86
+"Monitoring Public Transportation with the Kafka Ecosystem – a demo project part of the Udacity “Data Streaming” Nanodegree. It contains data streaming workflows using Kafka Producers and Consumers, JSON and Avro serialization, Kafka Connect (JDBC), REST Proxy, Robinhood Faust, and KSQL.",Python,6,sxuu6f,https://vkontech.com/monitoring-public-transportation-with-the-kafka-ecosystem-demo-project/,0,1645453779.0,,0.8
+Made a tutorial about Caesar's cipher,Python,1,sy7csd,https://www.reddit.com/r/Python/comments/sy7csd/made_a_tutorial_about_caesars_cipher/,1,1645484567.0,"Title. I'm testing if i can write articles of whatever i'm learning to program, basically using my own methods to show a way to solve some problems, and if i'm capable of teaching other people, even as a beginner. 
+
+[Medium](https://medium.com/@Operaho/make-a-caesars-cipher-with-python-8958ffa1e90d)",0.6
+Web scraping,Python,3,sy1ne5,https://www.reddit.com/r/Python/comments/sy1ne5/web_scraping/,5,1645470686.0,"Hello fellas 
+Newbie here .I want to learn web scraping using python .My question is Do I have to go through all the basics to advance level concepts of python or Can I learn certain codes through tutorial and have intermediate know how of libraries like selenium, beautiful soup and pandas .
+If latter case is possible how much time a beginner should take to learn web scraping through python  If I give daily 3 hours to it.Thanks",0.71
+"Guido van Rossum interview ""Python is half my life""",Python,4,sxw1qj,https://issuu.com/vmadmin/docs/cwi_special_75_years/34,0,1645456935.0,,0.7
+Using Arduino Capacitive touch sensor with Python,Python,4,sxy819,https://youtu.be/RhWfnFqeBnE,0,1645462378.0,,0.83
+Algorithms and Data Structures FREE COURSE || Hash Tables Explained || Drawing + Coding a HashMap in Python,Python,2,sxzyqx,https://youtu.be/aB2lFb15sC0,0,1645466549.0,,0.75
+How to use Beautiful Soup in AWS Lambda for Web Scraping,Python,0,sy53xc,https://www.reddit.com/r/Python/comments/sy53xc/how_to_use_beautiful_soup_in_aws_lambda_for_web/,0,1645479166.0,The purpose of this post is to show how to use the Beautiful Soup module in AWS Lambda with Python... https://dev.to/aissalaribi/how-to-use-beautiful-soup-in-aws-lambda-for-web-scrapping-1gh8,0.5
+Ruminations on the problem of None.,Python,1,sy42f5,https://www.reddit.com/r/Python/comments/sy42f5/ruminations_on_the_problem_of_none/,3,1645476674.0,"I think this function smells:
+
+```
+def read_value(key):
+    try:
+        return db.read(key)
+    except (ObscureDBError, VeryObscureDBError, NotSoObscureButStillObsureDbError):
+        return None
+```
+We try to free the users of our function from worrying about all the sorts of DB Error. But the user still needs to care that the value can be None. And if we allow the function to raise an exception, that smell stays: nothing forces or even urges the users of our function to handle a possible error case. They need to read the docs or the source code to even know that the function can make errors. Maybe typing would make a suggestion that the output value can be None, if our users use IDE that warns about such things. 
+
+But I want a more robust protection. So now, I'd write this function like this:
+```
+def read_value(key):
+    try:
+        return (db.read(key), True)
+    except (ObscureDBError, VeryObscureDBError, NotSoObscureButStillObsureDbError):
+        return (None, False)
+```
+By returning the tuple instead of the supposed value, I force the users of my function to acknowledge it. If they erroneously suppose that read_value() always returns the value, they will get some type mismatch as soon as they use the value. If, however, I'd return a value or None, the type mismatch would only happen on error. And if the error is really obscure, even the unittests may fail to cover that case. 
+
+What do you think of this?",0.57
+Async IO Tasks vs. Threads,Python,6,sxovwp,https://www.reddit.com/r/Python/comments/sxovwp/async_io_tasks_vs_threads/,15,1645433431.0,"I recently heard of this feature in Python3.7+ where the asyncio brought a thing called ""tasks"" which people refer to as background tasks. So that's may first question:
+1. Do these tasks really run in background?
+
+Also, when comparing asyncio tasks to threads in Python, we know that python has a GIL. So, there's nothing like parallel. I know the difference in core structure i.e. asyncio tasks run in an event loop inside the same thread, while python threads are simply forked threads. But when it comes to speed, none of these are parallel.
+
+We can call them concurrent instead. So the second question is:
+
+2. Which of these two would be faster? 
+
+
+A few things I got to know about memory consumption is:
+ - Threads consume a fair amount of data since each thread needs to have its own stack. With async code, all the code shares the same stack and the stack is kept small due to continuously unwinding the stack between tasks.
+ - Threads are OS structures and therefore require more memory for the platform to support. There is no such problem with asynchronous tasks.
+
+References:
+1. https://stackoverflow.com/questions/62528272/what-does-asyncio-create-task-do
+2. https://stackoverflow.com/questions/49005651/how-does-asyncio-actually-work
+
+
+Coming to my last question:
+
+3. When should you use asyncio tasks compared to threads? (This question has came in my mind as we can even fire async task from sync code)",0.64
+How a project like Django or Flask gets so popular ? [Discussion],Python,2,sxxb6s,https://www.reddit.com/r/Python/comments/sxxb6s/how_a_project_like_django_or_flask_gets_so/,3,1645460093.0,"Hello there everyone, I want to ask a simple question :
+
+&#x200B;
+
+I wonder how a project like Django or Flask gets so popular ? 
+
+&#x200B;
+
+Is it because Python community was small at the time when Flask was published, so the news spread faster ? Or because they promote the framework all over the internet and the community ? Or because these frameworks are released by a well-known company (Such as React from Facebook, Flutter from Google, next.JS from Vercel, etc) ? Or because they are released by a well-known person ? Such as Go Language from Ken Thompson ?
+
+&#x200B;
+
+Let me know what you are thinking, thanks for replying!",0.63
+"Announcing whatismyip, a Python 3 module for finding out your IP address.",Python,28,sxhupg,https://www.reddit.com/r/Python/comments/sxhupg/announcing_whatismyip_a_python_3_module_for/,23,1645409316.0,"You can install it with `pip install whatismyip`
+
+https://pypi.org/project/WhatIsMyIP/
+
+Example usage:
+
+    >>> import whatismyip
+    >>> whatismyip.amionline()
+    True
+    >>> whatismyip.whatismyip()
+    '69.89.31.226'
+    >>> whatismyip.whatismyipv4()
+    '69.89.31.226'
+    >>> whatismyip.whatismyipv6()
+    '2345:0425:2CA1:0000:0000:0567:5673:23b5'",0.73
+"Generate code names using Wikipedia, aka neon-carrot-copenhagen",Python,0,sy0p1q,https://www.reddit.com/r/Python/comments/sy0p1q/generate_code_names_using_wikipedia_aka/,3,1645468319.0,"[https://pypi.org/project/wikicodename/](https://pypi.org/project/wikicodename/)
+
+Hi! I've created a tool that generates code names using lists and tables from Wikipedia articles. There are 10 unique profiles you can use or you can define your own. Here's an example output:
+
+    $ wikicodename
+    sugar-plum-winnipeg
+    bud-green-betim
+    livid-malolos
+    onyx-ituiutaba
+    alizarin-belem
+    pink-flamingo-tokai
+    tuscan-brown-glasgow
+    warm-black-getafe
+    hot-magenta-managua
+    field-drab-qingdao
+
+I hope you find it useful. Remember to leave a star if you like the project!
+
+PS the project's code name was neon-carrot-copenhagen ;)",0.5
+How To Build a Streamlit App To Extract Topics From YouTube Videos?,Python,2,sxtkhx,https://towardsdatascience.com/how-to-build-a-streamlit-app-to-extract-topics-from-youtube-videos-9c7aebbfab8e,0,1645450231.0,,0.76
+Instagram hashtag-specific like bot in 10 lines of code!,Python,0,sxxcb0,https://youtu.be/KziaF5B1N-M,0,1645460177.0,,0.38
+Python Language Translation using Google Translator,Python,1,sxx5xa,https://www.reddit.com/r/Python/comments/sxx5xa/python_language_translation_using_google/,0,1645459728.0," The Google Translator tool is one of the most popular and free language  translation tools. With Google Translator, you can translate a text from  a particular language into a number of languages. As of now, the tool  is available for developers, and its API is available for a number of  programming languages. This means that a program can be written in one  language and translated into many others 
+
+[Python Language Translation using Google Translator](https://rrtutors.com/tutorials/python-language-translation-using-google-translator)",0.67
+Here's a question - appsec solution for developers,Python,3,sxpqfz,https://www.reddit.com/r/Python/comments/sxpqfz/heres_a_question_appsec_solution_for_developers/,5,1645436754.0,"Hi, So I am a part of a startup team, developing a fully automated tool for developers, to manage appsec or product security, from the plan to orchestration of the OSS controls (via GH). It's for startups or cloud native companies... the developers but also devops, devsecops, etc. Called [Jit.io](https://Jit.io). Anyways, we now opened the early access (private- it demands email sighup and then you get an email with instructions on how to proceed and access the product) and we need honest feedback from developers. Is that something to ask here or in other relevant s/r? what's the best way to get dev leaders (that are responsible for the product sec) playing with this tool and sharing their thoughts?",0.67
+Geometry Generation: Dactyl-Manuform Keyboard,Python,11,sxhiv6,https://www.reddit.com/r/Python/comments/sxhiv6/geometry_generation_dactylmanuform_keyboard/,4,1645408378.0,"I have been posting mostly in r/ErgoMechKeyboards, but realized this group might be interested as well.  I created a generator for a dactyl-manuform style keyboard in Python, using either solidpython / OpenSCAD or cadquery / OpenCASCADE, depending on your settings.  The components are designed to be customized and 3D printed.  
+
+I thought this might be helpful for anyone looking to do programmatic geometry generation.  The code was translated from clojure and evolved so it is not the cleanest, but does show techniques for generation.  The refactor branch is much closer to what I would do if I had started from scratch where features are separated for easier customization and expansion of capabilities.  I would suggest starting there if you are more interested in the code than the actual keyboard.  It should be merged into the master branch in the near future.
+
+[Github repo](https://github.com/joshreve/dactyl-keyboard)
+
+&#x200B;
+
+[Generated DM 5X6 Keyboard](https://preview.redd.it/og3pyjslc3j81.png?width=771&format=png&auto=webp&s=ba57c7cf514b0a4f0cd977f2c0592945993d6a7f)",0.7
+How fast did you start writing code in relatively big existent code base in a new job?,Python,42,sx84ga,https://www.reddit.com/r/Python/comments/sx84ga/how_fast_did_you_start_writing_code_in_relatively/,45,1645382629.0,"Hello, last Monday (February 14), I (probably unfortunately) started working as Python Backend Developer in a new big company. This is my 3rd developer job (I am self-taught) and have 2.5 years of experience, but the first job where I work with relatively big existent code base. 
+
+ The problems:
+
+1. there is nearly no documentation to the project, there are only some vague comments in code. They also use some self-written ""connector"" around PyMongo client - no docs!
+2. the company use technologies which I have not worked with GraphQL, MongoDB. (I told on interview that I did not work with the techs)
+3. Manager (never worked as programmer himself and have no coding skills) does not give me any time to learn the technologies and read the project code, instead I spend all my working time on meetings, doing some internal learning (not even related to programming). On the other hand he wants me to start writing code as fast as possible, he told me on the second working day that he expects me to start writing code in 2-3 days.
+
+The project is not really large (about 50K-60K SLOC in Python), but no docs, strange internal libraries (e.g. sync PyMongo used with async AioHTTP).
+
+How can I explain the manager that I need at least 1-2 weeks of reading code and learning new technologies to do something in the project? How much time did it get you to start writing code in a new job ?",0.8
+I still miss python 2 print statement,Python,0,sy94qa,https://www.reddit.com/r/Python/comments/sy94qa/i_still_miss_python_2_print_statement/,5,1645489309.0,"The cool factor of print “Hello World” can never be forgotten. I also find it more readable.
+
+I already have so many parenthesis in my code I wish I could get print statements where those are optional since print statements are so rare (for me) anyway.
+
+That’s it.",0.32
+Python Tutorial - Creating Your Own Audiobooks in Python,Python,7,sxii5o,https://www.reddit.com/r/Python/comments/sxii5o/python_tutorial_creating_your_own_audiobooks_in/,0,1645411310.0,"Hey Guys! Today I'm just going to give you guys a quick overview of how to convert Images Into Pencil Sketch Using Python.  
+[https://www.youtube.com/watch?v=lmyXswScnhs](https://www.youtube.com/watch?v=lmyXswScnhs)
+
+https://preview.redd.it/p4tk3e62n3j81.png?width=2880&format=png&auto=webp&s=058b0776d872427138a604db10261926aa13070f",0.71
+Bitcoin from Scratch With Python,Python,1,sxtocb,https://trevormcguire.medium.com/bitcoin-from-scratch-a5ef217cf1e2,0,1645450567.0,,0.55
+Starting with python at 30,Python,396,swtb23,https://www.reddit.com/r/Python/comments/swtb23/starting_with_python_at_30/,316,1645333274.0,"I am 30 with 9 years of experience in IT network security, still don't know any programming language. Is it good time to start with python even at this age ?",0.85
+Data Science Benefits,Python,0,sxt81x,https://insideaiml.com/course-details/Data-Science-Master-Program-in-guwahati,0,1645449158.0,,0.5
+A python script to search and download from 15k audiobooks for free,Python,7,sxj8bx,https://www.reddit.com/r/Python/comments/sxj8bx/a_python_script_to_search_and_download_from_15k/,3,1645413499.0,"[https://imgur.com/N3PltX9](https://imgur.com/N3PltX9)
+
+I have made a script using python i have collected lots of audiobooks from youtube in an index and some from another websites all in all-around 10K audiobooks, and it also searches youtube for new queries and books if we don't find them, it open-source and you can find it at [ipriyam26/Audiobook (github.com)](https://github.com/ipriyam26/Audiobook)",0.65
+prtpy - a library for number-partitioning and bin-packing algorithms,Python,0,sxrmim,https://www.reddit.com/r/Python/comments/sxrmim/prtpy_a_library_for_numberpartitioning_and/,1,1645443944.0,"I everyone! I am working on an open-source library for number-partitioning and bin-packing algorithms in Python. It supports several exact and approximate algorithms, with several input formats, optimization objectives, and output formats. Here is the link:
+
+[https://github.com/erelsgl/prtpy](https://github.com/erelsgl/prtpy)
+
+I plan to extend it by adding more advanced algorithms. Before that, I will be happy for any feedback, particularly, regarding the general design and structure of the library. Thanks!",0.5
+Checkpoint - Tool to create local restore points in a few clicks.,Python,1,sxpjib,https://www.reddit.com/r/Python/comments/sxpjib/checkpoint_tool_to_create_local_restore_points_in/,0,1645435957.0,"Hello everyone. I have been working on a project for quite a while now. The project is called pycheckpoint, it is a tool that allows users to create local restore points in their projects in a very simplified manner. Some of the features that make checkpoint stand out of the bunch are:-
+
+1. Very simple use. Checkpoint provides a very simple command-line interface that abstracts unnecessary details for the user while retaining its usability
+2. A minimal yet very functional GUI (uses React, Electron) comes prepackaged with the tool.
+3. Exposes all the functionality through the python package allowing the user to write his/her custom GUI if the current one doesn’t satisfy them.
+4. Support for custom extension readers. Checkpoint allows addition of custom reader classes that can be used to read certain file extensions, can even validate the content of the file s before reading them.
+
+You can install checkpoint using pip install pycheckpoint. Any feedback or possible improvements/features would be highly appreciated.
+
+[Documentation](http://checkpoint.antriksh.live)
+ [Source Code](https://github.com/antrikshmisri/checkpoint)",1.0
+Ubuntu Pyenv Installer,Python,1,sxpaf1,https://www.reddit.com/r/Python/comments/sxpaf1/ubuntu_pyenv_installer/,0,1645434972.0,"I made a 2-click installation script that will install on your Ubuntu-based Linux distribution:
+
+* Python build dependencies
+* Pyenv
+* Latest Python if it's needed
+
+It works upon Pyenv-installer, but Pyenv-installer doesn't work correctly for Ubuntu-based distros anymore. So I added automatic installation of Python build dependencies, an option to install the latest Python version, and fixed the issues of Pyenv-installer to have working solution.
+
+The script was tested on freshly installed:
+
+* Ubuntu 18.04.6
+* Linux Mint 20.01
+* Ubuntu 20.04.3
+
+[https://github.com/zaemiel/ubuntu-pyenv-installer](https://github.com/zaemiel/ubuntu-pyenv-installer)",1.0
+"Python getters, setters and properties",Python,2,sxhf1y,https://www.nathanfurnal.xyz/posts/python-getters-setters/,0,1645408064.0,,0.63
+Monday Daily Thread: Project ideas!,Python,5,sxf7wy,https://www.reddit.com/r/Python/comments/sxf7wy/monday_daily_thread_project_ideas/,1,1645401621.0,"Comment any project ideas beginner or advanced in this thread for others to give a try! If you complete one make sure to reply to the comment with how you found it and attach some source code! If you're looking for project ideas, you might be interested in checking out Al Sweigart's, [""The Big Book of Small Python Projects""](https://inventwithpython.com/bigbookpython/) which provides a list of projects and the code to make them work.",1.0
+I used Machine Learning to Measure weird Shapes in my Appartment,Python,1,sxnaoi,https://www.reddit.com/r/Python/comments/sxnaoi/i_used_machine_learning_to_measure_weird_shapes/,0,1645427179.0,"I live in an old house with some not-so-rectangular spaces. For having my shelves CNC cut, I needed the coordinates of the corners of some quadrilaterals. Using autograd, I developed a small script to calculate the corner coordinates of any quadrilateral from its side lengths and diagonals. 
+
+[Gist](https://gist.github.com/AlexanderNenninger/2e69c797fc183230a42264d1f93c77ec)",0.67
+"Announcing ""dude"" - A web scraper inspired by Flask syntax",Python,24,sx1yf8,https://www.reddit.com/r/Python/comments/sx1yf8/announcing_dude_a_web_scraper_inspired_by_flask/,20,1645365879.0,"Hello Python devs!
+
+I am releasing [dude](https://github.com/roniemartinez/dude). It is a web scraping framework with a simple syntax inspired by Flask. You can build a minimal scraper with just a few lines of code.
+
+```python
+from dude import select
+
+
+@select(selector=""a"")
+def get_links(element):
+    return {""url"": element.get_attribute(""href"")}
+```
+
+To install simply run `pip install pydude`.
+To start scraping, run `dude scrape --url ""<url>"" path/to/file.py --output result.json`.
+
+More details about the usage are in the [Github project repo](https://github.com/roniemartinez/dude#basic-usage).
+
+### Features:
+- Simple Flask-inspired design - build a scraper with decorators.
+- Uses Playwright's API - run your scraper in Chrome, Firefox and Webkit and leverage Playwright's powerful selector engine.
+- Data grouping - group related scraping data.
+- URL pattern matching - run functions on specific URLs.
+- Priority - reorder functions based on priority.
+- Setup function - enable setup steps (clicking dialogs or login).
+- Navigate function - enable navigation steps to move to other pages.
+- Custom storage - option to save data to other formats or database.
+- Async support - write async handlers.
+
+### Contribute
+
+Dude is at a very early stage. I invite everyone interested in web scraping to contribute by opening bug reports, feature requests, pull requests and discussions. Your help is highly appreciated!",0.74
+"Unimport-A linter, formatter for finding and removing unused import statements.",Python,0,sxn8vb,https://github.com/hakancelik96/unimport/,1,1645427004.0,,0.5
+Python Tutorial - How to convert .py to .exe using auto-py-to-exe?,Python,0,sxiu8p,https://www.reddit.com/r/Python/comments/sxiu8p/python_tutorial_how_to_convert_py_to_exe_using/,10,1645412359.0,"Hey Guys. Today I will be showing you how to covert your .py files into .exe - executable programs using auto-py-to-exe.  
+Steps Below:  
+Step 1 - Open your Terminal - for Windows press the Windows+R key and  then search 'cmd' to open the Terminal  
+Step 2 - type conda info --envs - this locates your working environment  
+Step 3 - type activate base - base is my working environment  
+Step 4 - type pip install auto-py-to-exe - I've previously installed  auto-py-to-exe, hence I did not need to redo this step  
+Step 5 - type auto-py-to-exe - this will open a new window in which you  will be able to enter the requisite files and create your .exe program  
+[https://www.youtube.com/watch?v=YIgMciKLPKk](https://www.youtube.com/watch?v=YIgMciKLPKk)
+
+https://preview.redd.it/g76y0po4q3j81.png?width=2880&format=png&auto=webp&s=09d92750908835090b4456a752a63a57aad9b69e",0.5
+Connect any controller to the Mindstorms EV3,Python,13,sx39x0,https://www.reddit.com/r/Python/comments/sx39x0/connect_any_controller_to_the_mindstorms_ev3/,3,1645369839.0," Hello there. A long lasting problem that I've had, and maybe some of you, is trying to control the Mindstorms with a controller. The EV3 has support for PS controllers, but not for others like Xbox. Therefore, today I have a solution. It uses python, pygame, and ev3\_dc. Here's the [GitHub link](https://github.com/BrickSigma/Joystick-to-EV3).
+
+I hope this helps, the example code is just to give an idea, but for better understanding, you can check out the [ev3\_dc docs](https://ev3-dc.readthedocs.io/en/latest/).
+
+Here's a small clip of it working:
+
+&#x200B;
+
+https://reddit.com/link/sx39x0/video/x5x3751p70j81/player",0.8
+My first web scraping project using Selenium and BeautifulSoup!,Python,44,swwhzt,https://www.reddit.com/r/Python/comments/swwhzt/my_first_web_scraping_project_using_selenium_and/,1,1645345329.0,"I am a first year undergrad student, and I was learning about web-scraping. In order to brush up the concepts, I created a library for scraping different pages of the CoinMarketCap website using Selenium (to load javascript components) and BeautifulSoup (to parse HTML) and creating an API using the built library, FastAPI framework and Redis for caching the API calls.
+
+I used mypy for linting the code (type annotations) and black for formatting it. I'll make some improvements in it over time, as I learn about new things!
+
+Any reviews/suggestions are welcome!
+
+[https://github.com/Devansh3712/cmc-py](https://github.com/Devansh3712/cmc-py)",0.91
+Introduction to ‘TensorLayer’: A Python-based Versatile Deep Learning Library Designed for Machine Learning Researchers,Python,1,sxj5kd,https://www.reddit.com/r/Python/comments/sxj5kd/introduction_to_tensorlayer_a_pythonbased/,1,1645413270.0,"It takes a long time and a lot of effort to build a working deep learning system. Building advanced neural networks, coordinating several network models, data processing, designing a concise workflow, and handling a large volume of training-related data are all time-consuming processes. Keras and TFLearn are two tools that can help with this development process since they enable flexibility and abstraction for numerous connected modalities. Another tool that is fast gaining popularity is TensorLayer, a Python-based machine learning tool.
+
+The progress of deep learning is being hampered by the increase in interaction. Developers must devote a significant amount of time to integrating components for experimenting with neural networks, handling intermediate training stages, organizing training-related data, and allowing hyperparameter change in response to diverse events. [**CONTINUE READING**](https://www.marktechpost.com/2022/02/20/introduction-to-tensorlayer-a-python-based-versatile-deep-learning-library-designed-for-machine-learning-researchers/)
+
+Paper: https://arxiv.org/pdf/1707.08551.pdf
+
+Github: https://github.com/tensorlayer/TensorLayer",0.67
+"made this urban dictionary telegram bot to look-up meanings and i think its quite cool, it was fun and challenging.",Python,6,sx7sbj,https://www.reddit.com/r/Python/comments/sx7sbj/made_this_urban_dictionary_telegram_bot_to_lookup/,1,1645381742.0,"Made this urban dictionary telegram bot to look-up meaning of slang term just by dropping a message. Some replies are quite hilarious cuz it scrapes meaning straight from urban dictionary.
+
+It uses Telegram api and urban dictionary library and is deployed on heroku, quite a learning experience.
+
+You can check it out here- [https://t.me/AnotherUrbanDictionaryBot](https://t.me/AnotherUrbanDictionaryBot)
+
+Source code- [https://github.com/daspartho/UrbanDictionaryBot](https://github.com/daspartho/UrbanDictionaryBot)
+
+It really works like a charm and i think its pretty cool, i'm proud of it : ) Would love some thoughts and feedback on the code and project as a whole.",0.8
+Virtual Environments and Package Management in Python,Python,17,swy4ye,https://bas.codes/posts/python-virtualenv-venv-pip-pyenv-poetry,8,1645351897.0,,0.8
+"PyPy v7.3.8 has been released, now with Python3.9",Python,37,swud6p,https://www.reddit.com/r/Python/comments/swud6p/pypy_v738_has_been_released_now_with_python39/,4,1645337019.0,"PyPy has released a version of its interpreter for Python3.9, and updated versions of Python3.8, Python3.7 and Python2.7. PyPy uses much the same code base for all the releases (version 7.3.8 of PyPy). You can download binary tarballs/zip files at [https://www.pypy.org/download.html](https://www.pypy.org/download.html), and find out what is new at [https://www.pypy.org/posts/2022/02/pypy-v738-release.html](https://www.pypy.org/posts/2022/02/pypy-v738-release.html)
+
+Please try it out on your pure-python code and let us know how it goes. We will be working on getting the new versions into conda-forge, so you can install binary packages without compilation. Note that until HPy gets more stable and popular, c-extension packages like NumPy and scikit-learn will run slower on PyPy since it needs to emulate the CPython C-API.",0.91
+Your strategies for offloading computation,Python,3,sx5zjw,https://www.reddit.com/r/Python/comments/sx5zjw/your_strategies_for_offloading_computation/,4,1645377050.0,"What are your strategies for offloading one-time data processing workloads? Often, one does not want to run them for hours on the own development machine.
+
+What I thought of:
+
+* Setting up an AWS/Azure VM and developing there
+* Using one of batch services (i.e. AWS Batch) - unfortunately one has to setup it's own Docker environment image
+
+But all the solutions feel heavy in terms of setup ... sometimes one just wants to send his own script and environment description somewhere and just receive the results
+
+Maybe someone wants to share own strategies or steps :)",0.64
+Introduction to 3D game development with python using ursina,Python,3,sx7pe2,https://youtu.be/T_HMm8Tn4f8,0,1645381521.0,,1.0
+Visualizing the K-means Clustering Algorithm,Python,42,swrcv8,https://www.reddit.com/r/Python/comments/swrcv8/visualizing_the_kmeans_clustering_algorithm/,8,1645326825.0,"Hi there! After learning enough about the fundamentals of python, I am pleased to be able to showcase my first project, an iterative visualization of the k-means clustering algorithm. To be able to actually see each iteration of the algorithm, I had to implement it myself instead of using SKLearn or something similar, so it was a great experience to learn about a couple of different fields.
+
+Source Code: [Github Repo](https://github.com/Joshua-Elms/k-means-visualization)
+
+K-means Algorithm Explanation: [Wikipedia Page](https://en.wikipedia.org/wiki/K-means_clustering)
+
+Thanks for stopping by! I'd love to hear any feedback below.
+
+[Example of a globally optimal solution reached by algorithm.](https://i.redd.it/6vfbs13mnwi81.gif)
+
+[One run of the algorithm on 2 randomly generated Gaussian clusters](https://i.redd.it/vqdhmcq9pui81.gif)",0.88
+"An interesting way to print ""Hello World!""",Python,0,sxiava,https://www.reddit.com/r/Python/comments/sxiava/an_interesting_way_to_print_hello_world/,7,1645410670.0,"    class foo:
+        def __init__(self, value=0):
+            self.value = value
+    
+        def __call__(self):
+            self.value += 1
+            return self
+    
+        def __getitem__(self, _):
+            print(chr(self.value), end="""")
+            self.value = 0
+            return self
+    
+    
+    bar = foo()
+    bar()()()()()()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()()()()()()()()()()[0]()()()()()()()()()()()()()()()()()\
+    ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()()()()()()()()()()()()()()()()()()()()[0]()()()()()()()()\
+    ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()()()()[0]()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()()()()()()()()()()()()()()()()()()()[0]()()()()()()()()()\
+    ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()()()()[0]()()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()()()()()[0]()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()[0]\
+    ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()()()()()()()()()()[0]()()()()()()()()()()()()()()()()()()()\
+    ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()[0]()()()\
+    ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()[0]()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()[0]()()()()()()()()()()()()()()()()()()()()()()()()()()()()\
+    ()()()()()[0]",0.44
+Aashiq banaya AI ne || AI generates Love Quotes || AI Devlog,Python,0,sxd0m9,https://www.reddit.com/r/Python/comments/sxd0m9/aashiq_banaya_ai_ne_ai_generates_love_quotes_ai/,0,1645395486.0,"“The love of a woman in my heart is what keeps me strong when she is not around.”
+
+It's a quote generated by our AI. Like seriously! In the video, i displayed my journey like what made me to request my AI to help me this valentine and how we both managed to deal with the problem statement presented to us. It consists of my experiences while training a generative model using GPT and the results that we got were pretty amazing. Feel free to check out my experience using the given link. Hope we can relate with the experience of training a large model or else, if you are new in it, i hope it'll bring some value in your life.
+
+Video: [https://youtu.be/vzJiYKFuMOg](https://youtu.be/vzJiYKFuMOg)
+
+Always open for some constructive criticism
+
+Some of the outputs are:
+
+**Love Quotes:**
+
+* “The love of a woman in my heart is what keeps me strong when she is not around.”
+* “Sometimes you just want to be loved and you just want to be loved and then you have to fight for your love.”
+* “I do not know if i could be in love with someone as beautiful as you”
+* “Love is the highest power in the universe”
+* “I have had the pleasure of seeing you, and i am glad to have you back.”
+
+**Sometimes, our AI turns out to be a great motivator:**
+
+* “If you’re feeling hurt, give yourself time to heal.”
+* “Do not let yourself be discouraged.”
+* “I am the light of my life. i am the light that always shines brightly”
+* “It is as simple as that : when you say you are sorry, no matter what your response is, you feel it. when you say you are happy, no matter what you say, you are living a beautiful life.”
+
+**Sometimes, it turns out to be depressing:**
+
+* “Love is like a dream. it is like a dream that can never be fulfilled.”
+* “I love you so much i am afraid i will never see you again.”
+* “Sometimes we get what we need. sometimes it comes too late. “
+
+**Sometimes, it’s just eh idk:**
+
+* “If you never really loved anyone, you were never likely to get along well. you were a pretty fucking pathetic little ass to me because you were the only one who really had the heart to live up to your own ridiculous expectations.”
+* “i would rather die than live in a world where i am a prisoner of the law.”
+* “I do not want to live in a society with someone who is not happy with the way i am”
+* “I have known someone who is not as good as i am, but i am willing to pay.”",0.5
+My first Python code to mock my parents. Rate it :),Python,292,swc3kc,https://www.reddit.com/r/Python/comments/swc3kc/my_first_python_code_to_mock_my_parents_rate_it/,106,1645283237.0,"name **=** input(""What is your name?: "")
+
+print(""Hello ""+**name**)
+
+age **=** int(**input**(""How old are you?: ""))
+
+age **=** age **+** 10
+
+print(""In 10 years you will be ""+**str**(**age**)+"" years old"")
+
+height **=** float(**input**(""How tall are you?: ""))
+
+height **=** height **-** 11
+
+print(""when youre ""+**str**(**age**)+"" years old you will have shrunk down to ""+**str**(**height**)+"" cm tall"")
+
+rate **=** input(""On a scale from 1 to 10 how would you rate my coding skillz?: "")
+
+print(""Only ""+**str**(**rate**)+""? Damn, why you do me like that?"")",0.73
+"5 years coding in python, 4 professionally as a data engineer, I just discovered the ""input"" keyword and its purpose",Python,0,sxrb4h,https://www.reddit.com/r/Python/comments/sxrb4h/5_years_coding_in_python_4_professionally_as_a/,19,1645442733.0,"Edit : input is a builtin and not a keyword
+
+This morning, I was as usual working on a python app, when I wrote 'input' unquoted to get a field in a *dict*. That's the moment my syntax coloring marked it as a keyword.  
+My first reaction was ""bleh, I need to correct the dam syntax in vim"" before actually looking for it. That's pretty neat to be able to input data in the console. I'm feeling like a complete newbie.  
+
+My program :  
+~~~
+x =input() ; print('Bonjour',x)",0.36
+Colour Science for Python 0.4.0 is available,Python,6,swy7mw,https://www.colour-science.org/posts/colour-040-is-available/,3,1645352190.0,,0.8
+Apache Airflow for Beginners Tutorial Series,Python,65,swjvh3,https://www.reddit.com/r/Python/comments/swjvh3/apache_airflow_for_beginners_tutorial_series/,4,1645304637.0,"Hey there,
+
+I have been using Airflow for a couple of years in my work. I think it is a great tool for data pipeline or ETL management. Therefore, I have created this tutorial series to help folks like you want to learn Apache Airflow. So far, there are 12 episodes uploaded, and more will come.
+
+If you are interested, you can watch the whole playlist on [YouTube](https://www.youtube.com/watch?v=z7xyNOF8tak&list=PLwFJcsJ61oujAqYpMp1kdUBcPG0sE0QMT). If you think it is helpful, consider subscribing to my [youtube channel](https://www.youtube.com/c/coder2j) and star my [GitHub repository](https://github.com/coder2j/airflow-docker).
+
+Updated Tutorial Episode
+
+1. [Introduction and Local Installation](https://youtu.be/z7xyNOF8tak)
+2. [Get Airflow running in Docker](https://youtu.be/J6azvFhndLg)
+3. [Airflow Core Concepts in 5 mins](https://youtu.be/mtJHMdoi_Gg)
+4. [Airflow Task Lifecycle and Basic Architecture](https://youtu.be/UFsCvWjQT4w)
+5. [Airflow DAG with BashOperator](https://youtu.be/CLkzXrjrFKg)
+6. [Airflow DAG with PythonOperator and XComs](https://youtu.be/IumQX-mm20Y)
+7. [Airflow TaskFlow API](https://youtu.be/9y0mqWsok_4)
+8. [Airflow Catchup and Backfill](https://youtu.be/OXOiUeHOQ-0)
+9. [Schedule Airflow DAG with Cron Expression](https://youtu.be/tpuovQFUByk)
+10. [Airflow Connection and PostgresOperator](https://youtu.be/S1eapG6gjLU)
+11. [Add Python Dependencies via Airflow Docker Image Extending and Customizing](https://youtu.be/0UepvC9X4HY)
+12. [AWS S3 Key Sensor Operator](https://youtu.be/vuxrhipJMCk)",0.91
+InstaRecipe: Flask based APP on the Breakfast API that was posted 2 weeks ago,Python,4,swyvm9,https://www.reddit.com/r/Python/comments/swyvm9/instarecipe_flask_based_app_on_the_breakfast_api/,3,1645354861.0,"
+2 weeks Ago I saw [this post](https://www.reddit.com/r/Python/comments/snq1xk/my_wife_made_her_first_api/) where someone posted how his wife created an API that returned up to 12.000 recipes using FastAPI. This inspired me to start my own project and get out of my comfort zone and learn some new (to me) technologies.
+
+**Links**:- InstaRecipe:  App on Lightsail: [App](https://flask-service.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com/)\- InstaRecipe: [Github](https://github.com/pvd-dev/InstaRecipe)\- BreakfastAPI: [Github](https://github.com/MariiaSizova/breakfastapi)
+
+I'd appreciate receiving feedback as I'm sure there are many many things I could have done in a smarter way. Something I really struggled with was passing information between different functions I used attributes to get around this but I'm sure theres a smarter way.
+
+&#x200B;
+
+https://preview.redd.it/9qdka1oy5zi81.png?width=2804&format=png&auto=webp&s=0f7e186fa8692bb519819e3afe1aa9a79ac83117",0.84
+Top Python Libraries You Should Know Abou,Python,0,sxl85b,https://technostacks.com/blog/python-libraries,0,1645419969.0,,0.22
+Is it ever useful to import from the `builtins` std lib?,Python,33,swntei,https://www.reddit.com/r/Python/comments/swntei/is_it_ever_useful_to_import_from_the_builtins_std/,25,1645315918.0,"I was looking through some tutorials because I was confused and I saw this code:
+
+    from builtins import Exception
+    
+    class CustomException(Exception):
+        def __init__(self, error):
+            self.error = error
+            Exception.__init__(self, error)
+
+Is there a place where explicitly importing builtins makes sense or is this just an example issue?",0.85
+Why such huge difference in runtime and memory between python3 and golang?,Python,3,swy831,https://www.reddit.com/r/Python/comments/swy831/why_such_huge_difference_in_runtime_and_memory/,10,1645352243.0,"I have been leetcoding and try to solve the same problem using python and golang. The difference is like 10 folds for run time and 2-3 times for memory using exact same logic. I expected python to be slower but not with such huge margin. And this is just not this particular problem. I have seen it with other problems too.
+
+| Language    | Runtime  | Memory  |
+| :---        | :----    |   :---  |
+| golang      | 253 ms   | 10.7 MB |
+| python3     | 2751 ms  | 32.4 MB |
+
+This is the problem: 
+https://leetcode.com/problems/k-radius-subarray-averages/
+
+### Golang
+```
+
+func getAverages(nums []int, k int) []int {
+    n, left, currSum, radius := len(nums), 0, 0, 2*k + 1
+    radiusAvg := make([]int, n)
+    for right := 0; right < n; right++ {
+        radiusAvg[right] = -1
+        currSum += nums[right]
+        if right - left + 1 >= radius {
+            radiusAvg[left+k] = int(currSum/radius)
+            currSum -= nums[left]
+            left += 1
+            
+        } 
+    }
+    return radiusAvg
+}
+```
+
+### Python
+```
+def getAverages(self, nums: List[int], k: int) -> List[int]:
+        if len(nums) == 1 and k == 0:
+            return nums
+        
+        n, left, curr_sum, radius = len(nums), 0, 0, 2*k+1
+        radius_avg = [-1]*n
+        for right in range(0, n):
+            curr_sum += nums[right]
+            if right - left + 1 >= radius:
+                radius_avg[left+k] = int(curr_sum/radius)
+                curr_sum -= nums[left]
+                left += 1                
+            
+        return radius_avg
+```",0.6
+Slicing a file the obviously implicit way: f.read()[10:20],Python,1,swziyg,https://www.reddit.com/r/Python/comments/swziyg/slicing_a_file_the_obviously_implicit_way/,5,1645357444.0,"How useful or wrong (?) is that, since seek(0 is at our disposal? 
+
+Of course all slicing techniques are funcional, even directly reversing a file contents with \[::-1\]. 
+
+Shall it be flagged as  ""Never Advisable for Work""?",0.6
+Well typed form inputs with Streamlit + Pydantic,Python,2,swt27q,https://www.reddit.com/r/Python/comments/swt27q/well_typed_form_inputs_with_streamlit_pydantic/,0,1645332475.0,"* [The App](https://share.streamlit.io/gerardrbentley/python-form-generator/main/app.py)
+* [The Code](https://github.com/gerardrbentley/python-form-generator)
+* [Follow Along on Blog](https://tech.gerardbentley.com/intermediate/streamlit/python/2022/02/13/python-form-generator.html)
+
+With this Proof of Concept app, we'll walk through how to build a basic Streamlit input form, then add validation with Pydantic, and finally use those skills to bootstrap new input forms!
+
+I like the simplicity of Streamlit's form input widgets, and really like the connection to Pydantic input validation with the aptly named [Streamlit-Pydantic](https://github.com/LukasMasuch/streamlit-pydantic) package.
+
+My job involves a lot of apps for business users to input some bits of data or upload files to be processed by one automation or another. I figured there must be a way to bootstrap these types of apps in Python based on the shape of the input data.
+
+&#x200B;
+
+[Demo Screencast](https://i.redd.it/1zwh8jps4xi81.gif)
+
+## Full Walkthrough
+
+## Skeleton
+
+*GOAL:* Initialize git repo with necessary file scaffold:
+
+* `app.py`: The main streamlit entry app
+* `requirements.txt`: Pin versions of Python packages so deployment and development is repeatable
+* `README.md`: This documentation
+* `.gitignore`: Prevent secrets or large files or unecessary things from going into github
+   * Recommended github python [gitignore template](https://raw.githubusercontent.com/github/gitignore/main/Python.gitignore) works fine for this, slightly overkill
+* `LICENSE`: [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) same as [Streamlit Terms](https://streamlit.io/terms-of-use)
+
+&#x200B;
+
+    mkdir python-form-generator
+    cd python-form-generator/
+    touch README.md LICENSE .gitignore app.py requirements.txt
+    git init
+    git checkout -b main
+    git remote add origin git@github.com:gerardrbentley/python-form-generator.git
+    git add .
+    git commit -m ""skeleton""
+
+## Install
+
+We'll plan on 4 main packages for this:
+
+* `streamlit`
+* `pydantic`
+* `streamlit-pydantic`
+* `datamodel-code-generator`
+
+&#x200B;
+
+    python -m venv venv
+    . ./venv/bin/activate
+    pip install streamlit-pydantic datamodel-code-generator
+    pip list | grep ""streamlit\|pydantic\|datamodel-code""
+
+*Note:* This lets `streamlit-pydantic` to choose which versions of `streamlit` and `pydantic` work for the latest release.
+
+Saving the output to `requirements.txt` in the format:
+
+    datamodel-code-generator==0.11.19
+    pydantic==1.9.0
+    streamlit==1.5.1
+    streamlit-pydantic==0.5.0
+
+Saving the output to requirements.txt allows new users / deploys to install pinned verions with something like the following:
+
+`pip install -r requirements.txt`
+
+    git add requirements.txt README.md
+    git commit -m ""install""
+
+## Hello World
+
+Adding the following to `app.py`:
+
+    import streamlit as st
+    
+    
+    def main() -> None:
+        st.header(""Python Form Generator"")
+        st.subheader(""Enter your JSON and get a free Pydantic model + Streamlit Input Form using it!"")
+        json_input = st.text_area('JSON example', height=200)
+        st.write(json_input)
+    
+    
+    if __name__ == ""__main__"":
+        main()
+
+Then run with `streamlit` to check if basic input / processing frontend works.
+
+    streamlit run app.py
+    # ctrl + c to stop
+    git add app.py README.md
+    git commit -m ""input hello world""
+
+## Model Generation
+
+We'll draw from 3 sources for the meat and potatoes of this app:
+
+* [Streamlit Pydantic Usage Guide](https://github.com/LukasMasuch/streamlit-pydantic#usage)
+* [Datamodel Code Generator conversion](https://github.com/koxudaxi/datamodel-code-generator/blob/381abc1946c088c99dc79bebc62b7e37a2d4b8d3/datamodel_code_generator/__init__.py#L311)
+* [JSON to Pydantic conversion](https://github.com/brokenloop/jsontopydantic/blob/master/server/app/scripts/generator.py)
+
+## Imports
+
+Expand import section of `app.py` to accomodate Streamlit Pydantic, Datamodel code generator, and GenSON
+
+(Datamodel code generator is intended as CLI tool, so we have to dig a bit into it)
+
+    import json
+    
+    from pydantic import Json, BaseModel
+    from datamodel_code_generator.parser.jsonschema import JsonSchemaParser
+    from genson import SchemaBuilder
+    import streamlit as st
+    import streamlit_pydantic as sp
+
+## Upgraded Input
+
+We'll use Streamlit Pydantic to get out of the box validation of the JSON that the user provides. Plus we get extensibility via the FormModel if we want to add more configuration options!
+
+Instead of a plain `text_input` from streamlit, we utilize `sp.pydantic_form` and provide our model (which only has 1 input field for now!)
+
+After getting some input JSON from the User it will pass off to converting to a model.
+
+    class FormGeneratorModel(BaseModel):
+        model_schema: Json
+    
+    
+    def main() -> None:
+        st.header(""Python Form Generator"")
+        st.subheader(
+            ""Enter your JSON and get a free Pydantic model + Streamlit Input Form using it!""
+        )
+        data = sp.pydantic_form(key=""json_input"", model=FormGeneratorModel)
+        if data:
+            show_generated_code(data.model_schema)
+
+## Conversion
+
+Following in the footsteps of JSON to Pydantic and Datamodel Code Generator, we use GenSON to build a JSONSchema representation from raw JSON data, then dump that into the Datamodel Code Generator parser.
+
+We'll handle the same error case Datamodel code generator does, otherwise assume the happy path and display the results!
+
+    def show_generated_code(schema: Json) -> None:
+        model_code = json_to_pydantic(schema)
+    
+        if not model_code:
+            st.error(""Models not found in the input data"")
+        else:
+            st.code(model_code)
+    
+    
+    def json_to_pydantic(input_text: str) -> str:
+        builder = SchemaBuilder()
+        builder.add_object(input_text)
+        schema = builder.to_schema()
+        parser = JsonSchemaParser(
+            source=json.dumps(schema),
+            base_class=""pydantic.BaseModel"",
+        )
+    
+        return parser.parse()
+
+## LGTM
+
+Trying out a simple entry (even simpler than the [littlest fullstack app](https://streamlit-postgres.gerardbentley.com/)) such as the following:
+
+    {""body"": "":tada:"", ""username"": "":cat:""}
+
+Produces expected result
+
+    from __future__ import annotations
+    
+    from pydantic import BaseModel
+    
+    
+    class Model(BaseModel):
+        body: str
+        username: str
+
+Time to ship it and generate a Form!
+
+    git add app.py README.md
+    git commit -m ""model generation""
+
+## Bootstrapping
+
+Alright, we've got a nice Pydantic model, time to generate a Streamlit Pydantic scaffold from it and provide a download link.
+
+## Update Show Model
+
+We'll allow the user to download just the model into a `.py` file and hide the generated model unless they want to see it.
+
+    def show_generated_code(schema: Json) -> None:
+        model_code = json_to_pydantic(schema)
+    
+        if not model_code:
+            st.error(""Models not found in the input data"")
+        else:
+            with st.expander(""Original Converted Model""):
+                st.code(model_code, language=""python"")
+            st.download_button(""Download Generated Model Only"", data=model_code, file_name=""model.py"", mime=""text/plain"")
+            show_generated_form(model_code)
+
+## Inject Generated Code
+
+We only need 2 features to really bootstrap these forms:
+
+* Added imports
+* Retrieve form data in Streamlit app
+
+I'll add a `main()` method to keep scope contained, but the Streamlit execution model embraces all [Python scripting](https://streamlit.io/)
+
+    MAIN_TEMPLATE = """"""\
+    
+    
+    def main() -> None:
+        st.header(""Model Form Submission"")
+        data = sp.pydantic_form(key=""my_model"", model=Model)
+        if data:
+            st.json(data.json())
+    
+    
+    if __name__ == ""__main__"":
+        main()
+    """"""
+    
+    def show_generated_form(model_code: str) -> None:
+        code_lines = model_code.split('\n')
+        code_lines.insert(2, ""import streamlit_pydantic as sp"")
+        code_lines.insert(2, ""import streamlit as st"")
+    
+        code_lines.insert(-1, MAIN_TEMPLATE)
+    
+        full_code = '\n'.join(code_lines)
+    
+        st.subheader(""Generated Streamlit Pydantic App"")
+        st.caption(""Download it and run with `streamlit run model_form.py`"")
+        st.download_button(""Download Generated Form!"", data=full_code, file_name=""model_form.py"", mime=""text/plain"")
+        st.code(full_code, language=""python"")
+
+## LGTM
+
+Testing out the download and run on our simple model yields great results!
+
+    git add app.py README.md
+    git commit -m ""app generation""
+
+## Wrap Up
+
+That's it for the basic idea!
+
+Next steps would be allowing configuration options such as ""all Optional"" and snake casing akin to JSON to Pydantic. Also more input forms, as Datamodel code generator handles OpenAPI, CSV data, and more.
+
+    git add README.md
+    git commit -m ""lgtm!""
+    git push origin main",0.67
+A visual Programming IDE for Python and Machine Learning -> BlocklyML,Python,306,sw083q,https://www.reddit.com/r/Python/comments/sw083q/a_visual_programming_ide_for_python_and_machine/,33,1645240992.0,"Hello Guy, I  developed a Visual Programming IDE for Python and ML.
+
+BlocklyML got all new **PyCaret Update along with a lot of side features**
+
+This is developed from Google Blockly. This tool can be used to generate python code which supports basic ML algorithms. 
+
+I hope you may find it interesting.
+
+**Future Goal : Support More functionality and Make tutorial series for beginners**
+
+GitHub: [https://github.com/chekoduadarsh/BlocklyML](https://github.com/chekoduadarsh/BlocklyML)
+
+hosted webpage: [https://blocklyml.herokuapp.com/](https://blocklyml.herokuapp.com/) (Hosted on free tier)
+
+&#x200B;
+
+[Scikit-Learn](https://preview.redd.it/gascfq0qfpi81.png?width=677&format=png&auto=webp&s=986267095f4eb5742d07d49d7eebd38a0db8e2ba)
+
+&#x200B;
+
+[Pycaret](https://preview.redd.it/kvahz9g7jpi81.png?width=571&format=png&auto=webp&s=7e831ffebba87b13cefbb90ba0367411e8b36916)
+
+&#x200B;
+
+&#x200B;
+
+**please star the repository if you like (That's my motivation to push a head)** 
+
+PS: This is still an early stage (Neural Nets, Time Series are missing)
+
+**So, Please raise PR/Issue if u have any suggestions**
+
+Thank you",0.93
+Python Script to Buy Sandwiches with Bitcoin on the Lightning Network,Python,3,swun60,https://www.reddit.com/r/Python/comments/swun60/python_script_to_buy_sandwiches_with_bitcoin_on/,0,1645338054.0,"Yo! I wrote a Python script that orders me sandwiches from Jersey Mike's that I can pay in bitcoin through [PaywithMoon](https://paywithmoon.com/). Check it out on GitHub if you want automated bitcoin sammiches.
+
+Here's the open sourced code if you want to get a sammich too:  
+[https://github.com/lemonknowsall/bitcoin/blob/main/Bitcoin%20Sandwiches.py](https://github.com/lemonknowsall/bitcoin/blob/main/Bitcoin%20Sandwiches.py)
+
+Here's a demo:  
+[https://youtu.be/gaPxJaPCjak](https://youtu.be/gaPxJaPCjak)",0.57
+I made a chord progression suggester,Python,2,swu5o1,https://www.reddit.com/r/Python/comments/swu5o1/i_made_a_chord_progression_suggester/,0,1645336319.0,"I'm copying my post over from r/musicproduction, super excited to release my first program!
+
+""""""This is my first ever program, I started working on it early last month! It has a bank of around 7,500 MIDI files that you can shuffle through randomly and send one to your DAW when you find one you like. 
+
+It's all coded in python, except for the styling I used for the themes. Those are from a 3rd party resource coded in tcl. The program was inspired from a comment I saw a while back where someone shared a massive folder of .mid files. All I did was code an interface for shuffling them. With that being said, given how many progressions there are, there's some really awesome ones you might not think of, and some bland ones! 
+
+As I get more experienced with coding I'd like to add the ability to omit certain progressions. For example, if you want to entirely remove the possibility of a I-I-I-I or a I-IV-vi-V. Or, to only include the ones you specify. For right now it's pretty simple!
+
+Here's a video of it in action https://imgur.com/a/uXEZV8a
+
+It has a light and dark theme, defaulted to dark. I created the icon as well. Coding this was a lot of fun and I'd like to pursue coding further. You can grab it from my github https://github.com/coal-fingers/Chordial just download the ""Chordial.zip"" (everything else is just the main contents of that zip file) and once you unzip it, just run ""Chordial.exe""! I did not create an installer, but you can easily link a shortcut to the program if you like it. If you guys want ONLY the .mid files, then feel free to download just the ""Midi Progressions.zip""
+
+If you guys make something using this be sure to leave a link so I can check it out! BTW, the program IS coded to close by default when you send a file to the DAW! If you have any questions, check the README.txt first! Thanks for trying it out!""""""",0.75
+Working With DynamoDB In Python Using Boto3,Python,1,swuy1c,https://www.reddit.com/r/Python/comments/swuy1c/working_with_dynamodb_in_python_using_boto3/,0,1645339235.0,"Here's a pretty good article on getting started with DynamoDB (an AWS Cloud Key-Value Document DB). It gives several examples to get started.
+
+[https://hands-on.cloud/working-with-dynamodb-in-python-using-boto3/#h-prerequisites](https://hands-on.cloud/working-with-dynamodb-in-python-using-boto3/#h-prerequisites)",0.67
+WatchParty-Python,Python,40,sw6w32,https://www.reddit.com/r/Python/comments/sw6w32/watchpartypython/,3,1645265761.0,"I made a app in python which lets you stream your local video files and chat with your friends without any loss in quality. There still might be some bugs here. But i tried to keep it mostly bug free, any feedback on this would be appreciated.
+
+[https://github.com/GamesBond008/WatchParty-Python](https://github.com/GamesBond008/WatchParty-Python)",0.86
+How to write better scientific code in Python?,Python,10,swbopk,https://zerowithdot.com/improve-data-science-code/,0,1645282083.0,,0.82
+Here's Why JavaScript is Better Than Python For Beginners,Python,0,sx2vvt,https://youtu.be/kUVPY0Wws6k,9,1645368726.0,,0.14
+"Python GUI project builder - PyQt, PySide, QT project setup wizard | Modern UI designing",Python,4,swgxlc,https://youtu.be/8Rez2mm2PZ0,0,1645296503.0,,1.0
+"One cool live event by Geoffrey Hinton (Godfather of AI), for free.",Python,6,swdrar,https://www.reddit.com/r/Python/comments/swdrar/one_cool_live_event_by_geoffrey_hinton_godfather/,1,1645287898.0,"So one of the clubs in my college has done something quite impossible by roping in Sir Geoffrey Hinton, a living legend! Would be great if y'all join in, it's actually kinda a one-time opportunity to interact with him live, so do not miss it!  
+[Link for RSVP](https://gdsc.community.dev/events/details/developer-student-clubs-mukesh-patel-school-of-technology-management-and-engineering-mumbai-presents-gdsc-mpstme-ai-summit/)  
+[Youtube Link](https://www.youtube.com/watch?v=HkLfdGGmkxY)",0.75
+OK so I worked out how to do remote GPIO for my Iron Man robot :) Now its simple!,Python,2,swjge8,https://youtu.be/V4cE353rrww,0,1645303501.0,,1.0
+Apache Airflow Tutorial for Beginners Part 10: Airflow Connection and Postgres Operator,Python,2,swj81j,https://www.youtube.com/watch?v=S1eapG6gjLU,0,1645302809.0,,1.0
+API testing using request library,Python,1,swmyy5,https://www.reddit.com/r/Python/comments/swmyy5/api_testing_using_request_library/,0,1645313404.0,"Hi 
+Here's a test framework that I created for implementing e2e tests for APIs.
+I used Spotify public APIs as an example.
+I have used behave library to drive the test and the bindings have been implemented using request.
+
+Here's the link to the github project:
+https://github.com/jothetester/api_sit_example
+
+Here's the link to my blog if you want to know more about what API testing means 
+ https://link.medium.com/CAWcAiSvJnb
+
+
+Cheers!",1.0
+How to pass multiple lists to a function and compare!,Python,3,swep03,https://youtu.be/G6_Mx-iLqV4,2,1645290410.0,,0.62
+"pyTermTk, a personal attempt to create a Python TUI",Python,266,svl4wg,https://www.reddit.com/r/Python/comments/svl4wg/pytermtk_a_personal_attempt_to_create_a_python_tui/,46,1645199431.0,"Hi guys, this is my first post ever on Reddit (be gentle please!!!)  
+I just want to show off my last attempt (yeppp, after too many failures) of creating a generic purpose TUI library in Python with a QT5-like kind of API structure.  
+I hope you may find it interesting
+
+[https://github.com/ceccopierangiolieugenio/pyTermTk](https://github.com/ceccopierangiolieugenio/pyTermTk)
+
+[pyTermTk](https://i.redd.it/axj0nasptli81.gif)
+
+This is still an early stage TUI, many widgets are incomplete or missing (i.e. text area, partial keyboard support, incomprehensible Documentation)  
+I have very little time to work on it and the progresses are incredibly slow.  
+I develop it in order to create a terminal log viewer that could mimic the features exposed by [glogg](http://glogg.bonnefon.org/download.html) or [klogg](https://klogg.filimonov.dev)
+
+[https://github.com/ceccopierangiolieugenio/tlogg](https://github.com/ceccopierangiolieugenio/tlogg)
+
+[tlogg](https://i.redd.it/s5oec7zi1mi81.gif)
+
+Just to show off what can be done, here is my first drop of a SuperMinimal terminal box drawing tool , that I am using to quickly prototype the widgets layout without wasting too much time drawing ascii art with the text editor (No worries, I am planning to improve it):  
+
+
+[Paint](https://i.redd.it/xqychhxo2mi81.gif)
+
+Hope you like it, feel free to try it and give me feedback.",0.95
+Made my first website w/ Django -> A simple ToDo List app,Python,12,sw63t4,https://www.reddit.com/r/Python/comments/sw63t4/made_my_first_website_w_django_a_simple_todo_list/,3,1645262654.0,"While it's just a TodoList app, boy did it take time and effort! I was initially writing the code merrily when I realized that I had no way of storing data properly since I wasn't using any JavaScript. I believe we can use localStorage in JS right? (I'm not entirely sure about that so correct me if I'm wrong) That led me to one thing and that to another and after some  failed attempts, I started following Dennis Ivy's tutorial. I did make my own changes since I had spent 3-4 days initially just coding on my own, thinking of everything and the app logic.   
+
+
+Although most of the code is from his video guide, I do not consider my time spent brainstorming and coding on my own to be a waste at all. I now intend to write the app logic in function-based views format separately just to get practice.   
+
+
+Here's the deployed website: [https://django-todo00.herokuapp.com/](https://django-todo00.herokuapp.com/)
+
+And here's the Github repo: [https://github.com/dhruv-ahuja/todo-django](https://github.com/dhruv-ahuja/todo-django) 
+
+(PS: the latest code is in the \`deploy\` branch)",0.87
+Space Science with Python - Interactive Asteroid Spectrum Viewer (ML Project),Python,1,swhzso,https://www.reddit.com/r/Python/comments/swhzso/space_science_with_python_interactive_asteroid/,0,1645299384.0,"Hey everyone,
+
+my current tutorial video project about applying Machine Learning algorithms on Asteroid spectra continues. This is the last video before we dive into using Support Vector Machines, ConvNets and Autoencoders (to cover some methods and compare them with each other).
+
+In this tutorial I would like to show how to create interactive plotting or viewer routines in Jupyter Notebook, respectively in Google Colab using matplotlib and ipywidgets. Understanding the data is key to conduct ML experiments; so we do not only check the data visually, but check also some statistics to determine the imbalanced class distribution of the dataset.
+
+The GitHub link of the project is here: [GitHub Link](https://github.com/ThomasAlbin/Astroniz-YT-Tutorials/tree/main/%5BML1%5D-Asteroid-Spectra)
+
+And the corresponding YouTube video: [YouTube Link](https://youtu.be/CM3To3G4iO4)
+
+I hope some Python-coders are diving into these space topics!
+
+Cheers,
+Thomas",0.67
